@@ -13,3 +13,9 @@
 ## 🪟 Windows Apps
 
 * [Page 3](windows-apps/page-3.md)
+
+***
+
+* [🐱 Why I made this Gitbook Space?](why-i-made-this-gitbook-space.md)
+* [🧛 Ads Removal Guide](ads-removal-guide.md)
+* [🔐 Privacy Policy](privacy-policy.md)

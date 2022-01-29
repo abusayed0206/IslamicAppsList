@@ -5,6 +5,7 @@
 ## 🤝 Android Apps
 
 * [Page 1](android-apps/page-1.md)
+* [Page 4](android-apps/page-4.md)
 
 ## 🍎 iOS Apps
 

@@ -4,7 +4,7 @@
 
 ## 🤝 Android Apps
 
-* [Pillars](android-apps/pillars.md)
+* [✨ Pillars](android-apps/pillars.md)
 * [Page 4](android-apps/page-4.md)
 
 ## 🍎 iOS Apps

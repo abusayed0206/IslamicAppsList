@@ -17,9 +17,9 @@ Click on App name to navigate to the app page. You'll get a short summary of all
 
 </details>
 
-|   Name  |   Platform  | Ads free? | Receive Donate? |
-| :-----: | :---------: | :-------: | :-------------: |
-| Pillars | Android,iOS |     ✅     |        ❌        |
-|         |             |           |                 |
-|         |             |           |                 |
-|         |             |           |                 |
+|                Name                |                                                                                         Platform                                                                                         | Ads free? | Receive Donation? |
+| :--------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :---------------: |
+| [Pillars](android-apps/pillars.md) | [Android](https://play.google.com/store/apps/details?id=com.pillars.pillars\&hl=en\&gl=US),[iOS](https://apps.apple.com/us/app/pillars-prayer-times-qibla/id1559086853#?platform=iphone) |     ✅     |         ❌         |
+|                                    |                                                                                                                                                                                          |           |                   |
+|                                    |                                                                                                                                                                                          |           |                   |
+|                                    |                                                                                                                                                                                          |           |                   |

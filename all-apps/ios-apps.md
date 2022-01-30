@@ -1,8 +1,8 @@
 ---
-description: Sud-Index for iOS Apps
+description: Sud-Index for iOS Apps [Content will be updated soon]
 ---
 
-# List fo iOS Apps
+# 🍎 iOS Apps
 
 | Name | App Page |
 | :--: | -------- |

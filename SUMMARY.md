@@ -11,7 +11,7 @@
   * [Page 2](all-apps/ios-apps/page-2.md)
   * [Pillers](https://docs.gitbook.com/editing-content/rich-content/with-command-palette#tables)
 * [🪟 Windows Apps](all-apps/windows-apps/README.md)
-  * [Page 1](all-apps/windows-apps/page-1.md)
+  * [💎 Quran All-In-One](all-apps/windows-apps/quran-all-in-one.md)
 
 ***
 

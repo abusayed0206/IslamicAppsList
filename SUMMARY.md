@@ -4,12 +4,13 @@
 
 ## 🤝 Android Apps
 
-* [Page 1](android-apps/page-1.md)
+* [Pillars](android-apps/pillars.md)
 * [Page 4](android-apps/page-4.md)
 
 ## 🍎 iOS Apps
 
 * [Page 2](ios-apps/page-2.md)
+* [Pillers](https://docs.gitbook.com/editing-content/rich-content/with-command-palette#tables)
 
 ## 🪟 Windows Apps
 

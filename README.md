@@ -17,9 +17,9 @@ Click on App name to navigate to the app page. You'll get a short summary of all
 
 </details>
 
-| Name | Platform | Ads free? | Receive Donate? |
-| :--: | :------: | :-------: | --------------- |
-|      |          |           |                 |
-|      |          |           |                 |
-|      |          |           |                 |
-|      |          |           |                 |
+|   Name  |   Platform  | Ads free? | Receive Donate? |
+| :-----: | :---------: | :-------: | :-------------: |
+| Pillars | Android,iOS |     ✅     |        ❌        |
+|         |             |           |                 |
+|         |             |           |                 |
+|         |             |           |                 |

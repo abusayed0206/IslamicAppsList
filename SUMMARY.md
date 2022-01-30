@@ -12,13 +12,14 @@
   * [✨ Hisnul Muslim](all-apps/android-apps/hisnul-muslim.md)
   * [✨ Dua  & Ruqyah](all-apps/android-apps/dua-and-ruqyah.md)
 * [🍎 iOS Apps](all-apps/ios-apps/README.md)
-  * [Page 2](all-apps/ios-apps/page-2.md)
-  * [Pillers](https://docs.gitbook.com/editing-content/rich-content/with-command-palette#tables)
+  * [List fo iOS Apps](all-apps/ios-apps/list-fo-ios-apps.md)
 * [🪟 Windows Apps](all-apps/windows-apps/README.md)
   * [💎 Quran All-In-One](all-apps/windows-apps/quran-all-in-one.md)
+* [❣ AdFree  and/or with Ads Apps/Websites for Android,iOS,Linux,Windows,Mac](all-apps/adfree-and-or-with-ads-apps-websites-for-android-ios-linux-windows-mac.md)
 
 ***
 
 * [🐱 Why I made this Gitbook Space?](why-i-made-this-gitbook-space.md)
 * [🧛 Ads Removal Guide](ads-removal-guide.md)
 * [🔐 Privacy Policy](privacy-policy.md)
+* [📨 Contact Me](contact-me.md)

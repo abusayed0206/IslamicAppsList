@@ -2,19 +2,16 @@
 
 * [🗂 Index](README.md)
 
-## 🤝 Android Apps
+## 🤝 All Apps
 
-* [✨ Pillars](android-apps/pillars.md)
-* [Page 4](android-apps/page-4.md)
-
-## 🍎 iOS Apps
-
-* [Page 2](ios-apps/page-2.md)
-* [Pillers](https://docs.gitbook.com/editing-content/rich-content/with-command-palette#tables)
-
-## 🪟 Windows Apps
-
-* [Page 3](windows-apps/page-3.md)
+* [💡 Android Apps](all-apps/android-apps/README.md)
+  * [✨ Al Quran](all-apps/android-apps/al-quran.md)
+  * [✨ Pillars](all-apps/android-apps/pillars.md)
+* [🍎 iOS Apps](all-apps/ios-apps/README.md)
+  * [Page 2](all-apps/ios-apps/page-2.md)
+  * [Pillers](https://docs.gitbook.com/editing-content/rich-content/with-command-palette#tables)
+* [🪟 Windows Apps](all-apps/windows-apps/README.md)
+  * [Page 1](all-apps/windows-apps/page-1.md)
 
 ***
 

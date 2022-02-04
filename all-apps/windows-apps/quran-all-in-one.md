@@ -2,7 +2,6 @@
 
 |       Properties      |                                               Details                                               |
 | :-------------------: | :-------------------------------------------------------------------------------------------------: |
-|          Name         |                                           Quran-All-in-One                                          |
 |       Developer       |                         [Hanzalah Adalan‬](mailto:hanzalah.adalan@gmail.com)                        |
 |     Donation Link     |                                            Manual(Email)                                            |
 | Interface Language(s) |                                               English                                               |

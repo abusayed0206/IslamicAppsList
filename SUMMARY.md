@@ -13,6 +13,7 @@
   * [✨ Dua & Ruqyah](all-apps/android-apps/dua-and-ruqyah.md)
   * [✨ Hadith Collection (All in one)](all-apps/android-apps/hadith-collection-all-in-one.md)
   * [✨ অর্থপূর্ণ নামায (সালাত) শব্দসহ](all-apps/android-apps/salatbn.md)
+  * [✨ Quran Mazid](all-apps/android-apps/quran-mazid.md)
 * [🍎 iOS Apps](all-apps/ios-apps.md)
 * [🪟 Windows Apps](all-apps/windows-apps/README.md)
   * [💎 Quran All-In-One](all-apps/windows-apps/quran-all-in-one.md)

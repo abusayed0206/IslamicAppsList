@@ -19,6 +19,7 @@
 
 ***
 
+* [🍏 MacOS Apps](macos-apps.md)
 * [🕸 Web Apps](web-apps.md)
 * [💻 Apps List 📱💻(Contain Ads)](apps-list-contain-ads.md)
 * [❣ Top Islamic App Developer List](top-islamic-app-developer-list.md)

@@ -1,6 +1,6 @@
 ---
 description: >-
-  This is the index for ad-free(Some may contains ads) Islamic apps for the most
+  This is the index for ad-free(Some may contain ads) Islamic apps for the most
   used OS(Android, iOS, Windows)
 cover: >-
   https://images.unsplash.com/photo-1511652019870-fbd8713560bf?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw2fHxtYWtrYWh8ZW58MHx8fHwxNjQzNDg2ODM1&ixlib=rb-1.2.1&q=85

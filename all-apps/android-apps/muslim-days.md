@@ -1,3 +1,17 @@
 # ✨ Muslim Days
 
-\[Content will be updated soon]
+|     Properties     | Details |
+| :----------------: | :-----: |
+|      Developer     |         |
+|    Donation Link   |         |
+| Interface Language |         |
+|       Website      |         |
+|    Download Link   |         |
+
+💁🏽‍♂️Features List
+
+*
+*
+*
+
+

@@ -11,3 +11,11 @@ description: A summary about this app💐
 | Interface Language |         |
 |       Website      |         |
 |    Download Link   |         |
+
+💁🏽‍♂️Features List
+
+*
+*
+*
+*
+

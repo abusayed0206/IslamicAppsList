@@ -1,3 +1,7 @@
+---
+description: A summary about this app💐
+---
+
 # ✨ Quran Mazid
 
 |       Properties      |                                                                  Details                                                                 |

@@ -6,7 +6,7 @@
 
 * [💡 Android Apps](all-apps/android-apps/README.md)
   * [✨ Pillars](all-apps/android-apps/pillars.md)
-  * [✨ Al Quran](all-apps/android-apps/al-quran.md)
+  * [✨ Al Quran - Tafsir & By Word](all-apps/android-apps/al-quran.md)
   * [✨ Al Hadith](all-apps/android-apps/al-hadith.md)
   * [✨ Muslim Days](all-apps/android-apps/muslim-days.md)
   * [✨ Hisnul Muslim](all-apps/android-apps/hisnul-muslim.md)

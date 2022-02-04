@@ -1,3 +1,7 @@
+---
+description: A summary about this app💐
+---
+
 # ✨ Hadith Collection (All in one)
 
 |       Properties      |                                                                                                                            Details                                                                                                                            |

@@ -1,5 +1,5 @@
 ---
-description: '[Content will be updated soon]'
+description: Thanks to all dev(s)!
 ---
 
 # ❣ Top Islamic App Developer List
